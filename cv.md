@@ -1,7 +1,7 @@
 # Katsiaryna Zhdanovich
 
 ### Contacts:
-* +375 29 88 98 621
+* [+375 29 88 98 621](tel:+375298898621)
 * [Mail](mailto:zhdanovichkat@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/katsiaryna-zhdanovich/)
 
@@ -159,3 +159,9 @@ And I do my best to achieve my goal.
 * Codecademy, 2019, "Learn CSS";
 * Skyeng, 2019, "General Upper-Intermediate";
 * Goethe-Istitut, 2015-2019, "A1-B2 German Language".
+
+### English
+
+* Private lessons, 2012-2015;
+* Technical English, 2015-2016, Belarusian State University of Informatics and Radioelectronics;
+* Private lessons "General Upper-Intermediate", 2019, Skyeng.
