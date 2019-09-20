@@ -11,25 +11,23 @@ My goal is to learn as much as possible in the sphere of front-end development a
 And I do my best to achieve my goal.
 
 ### Skills:
-* HTML
-* CSS
-* JS
-* Bootstrap
-* jQuery
-* AJAX
-* English, B2
+* HTML;
+* CSS;
+* JS;
+* Bootstrap;
+* jQuery;
+* AJAX;
+* English, B2.
 
-###Quiz - the last project, I've made:
+### Quiz - the last project, I've made:
 ```HTML
 <!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Quiz</title>
-	</head>
-	<body>
-		<style type="text/css">
+        <title>Quiz</title>
+        <style type="text/css">
 			.quiz-window {
 				width: 400px;
 				min-height: 70px;
@@ -65,7 +63,8 @@ And I do my best to achieve my goal.
 				}
 			}
 		</style>
-
+	</head>
+	<body>
 		<div class="quiz-window">			
 			<div><p id="result"></p></div>
 			<div><p id="question"></p></div>
@@ -148,3 +147,15 @@ And I do my best to achieve my goal.
 </html>
 ```
 
+### Experience:
+* Course Project - BOOM;
+* University Labs' Tasks;
+* Quiz Project;
+
+### Education
+* Belarusian State University of Informatics and Radioelectronics, 2015-2019, Faculty of Engineering and Economics;
+* IT-Academy, 2019, "Websites development using HTML, CSS and JavaScript";
+* Codecademy, 2019, "Introduction to HTML";
+* Codecademy, 2019, "Learn CSS";
+* Skyeng, 2019, "General Upper-Intermediate";
+* Goethe-Istitut, 2015-2019, "A1-B2 German Language".
