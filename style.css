@@ -75,7 +75,7 @@ ul {
 
 main {
   margin-top: 20px;
-  padding: 0 30px;
+  padding: 0 30px 50px;
   text-align: justify;
   line-height: 1.5rem;
 }
@@ -126,12 +126,27 @@ hr {
   margin: 30px 30px 50px;
 }
 
+.code {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 0.5rem;
+}
+
+pre {
+  width: 90%;
+  margin: 0 auto;
+  background-color: #FEF9E7;
+  border: solid 1px black;
+}
+
 .skills li,
 .experience li {
   list-style-type: none;
 }
 
 .education,
-.english {
+.english,
+.summary {
   line-height: 2rem;
 }
+
