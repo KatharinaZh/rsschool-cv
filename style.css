@@ -1,0 +1,154 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
+
+a {
+  color: black;
+}
+
+h3 {
+  margin: 20px 0;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+ul {
+  margin-left: 30px;
+  list-style-type: disc;
+}
+
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+  background-color: #f5eef8;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  height: 120px;
+  font-family: 'Raleway', sans-serif;
+  background-color: #d7bde2;
+}
+
+.logo {
+  margin: 40px 0 0 30px;
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.logo a {
+  text-decoration: none;
+}
+
+.navbar {
+  width: 560px;
+  margin: 40px 30px 0 0;
+}
+
+.navbar .ul-nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar .ul-nav .li-nav {
+  list-style-type: none;
+}
+
+.navbar .ul-nav .li-nav a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 110px;
+  height: 41px;
+  border-radius: 20px;
+  text-decoration: none;
+  color: #000000;
+}
+
+.navbar .ul-nav .li-nav a:hover {
+  color: white;
+  background-color: #000000;
+}
+
+main {
+  margin-top: 20px;
+  padding: 0 30px 50px;
+  line-height: 1.5rem;
+  text-align: justify;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.main-info {
+  display: flex;
+  flex-direction: row;
+}
+
+.photo {
+  width: 200px;
+}
+
+.name-adress {
+  display: flex;
+  flex-direction: column;
+  margin-left: 15%;
+}
+
+.address {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 100%;
+  font-size: 22px;
+}
+
+hr {
+  margin: 20px 0;
+}
+
+.summary {
+  text-indent: 15px;
+}
+
+.skills,
+.experience {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 50px 30px;
+}
+
+.code {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 0.5rem;
+}
+
+pre {
+  width: 90%;
+  margin: 0 auto;
+  background-color: #fef9e7;
+  border: solid 1px black;
+}
+
+.skills li,
+.experience li {
+  list-style-type: none;
+}
+
+.education,
+.english,
+.summary {
+  line-height: 2rem;
+}
+
